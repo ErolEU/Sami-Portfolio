@@ -30,8 +30,7 @@ Jeg har arbejdet med eller er ved at lære:
 
 * Windows
 * Linux
-* Git og GitHub
-* HTML og Markdown
+* GitHub
 * Python
 * Netværk
 * Computerhardware
