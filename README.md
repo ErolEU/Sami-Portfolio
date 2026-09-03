@@ -65,7 +65,6 @@ På længere sigt vil jeg gerne arbejde professionelt med **infrastruktur, cloud
 
 ## 🔗 Links
 
-* [Min GitHub-profil](https://github.com/)
 
 ## 💻 Eksempel på kode
 
