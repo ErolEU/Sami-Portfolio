@@ -2,7 +2,7 @@
 
 ## Om mig
 
-Jeg er **18 år** og studerer på **TEC** på Data- og Kommunikationsuddannelsen. Jeg interesserer mig især for **IT-support, infrastruktur og cybersikkerhed**, og mit mål er at udvikle mine tekniske kompetencer gennem både skoleprojekter og praktisk erfaring.
+***Jeg er **18 år** og studerer på **TEC** på Data- og Kommunikationsuddannelsen. Jeg interesserer mig især for **IT-support, infrastruktur og cybersikkerhed**, og mit mål er at udvikle mine tekniske kompetencer gennem både skoleprojekter og praktisk erfaring.
 
 Jeg kan godt lide at arbejde med teknologi, løse tekniske problemer og lære, hvordan computere, netværk og systemer fungerer.
 
